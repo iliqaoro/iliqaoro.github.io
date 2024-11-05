@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iliqaoro.github.io/JTZ/sitemap_index.txt
+Sitemap: https://iliqaoro.github.io/RZH/sitemap_index.txt
+Sitemap: https://iliqaoro.github.io/oGH/sitemap_index.txt
+Sitemap: https://iliqaoro.github.io/yla/sitemap_index.txt
